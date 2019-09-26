@@ -1,4 +1,4 @@
-## rn-scrollable-picker
+## react-native-scrollable-picker
 A pure JS scrollable picker solution for react-native, highly customizable.
 
 -Auto height detection
@@ -8,13 +8,9 @@ A pure JS scrollable picker solution for react-native, highly customizable.
 
 ## Usage
 
-```shell
-npm i rn-scrollable-picker
-```
-
 ```jsx
 import React, {Component} from 'react';
-import ScrollPicker from 'rn-scrollable-picker';
+import ScrollPicker from 'react-native-scrollable-picker';
 
 export default class SimpleExample extends Component {
 

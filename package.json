@@ -1,14 +1,10 @@
 {
-  "name": "rn-scrollable-picker",
+  "name": "react-native-scrollable-picker",
   "version": "0.1.12",
   "description": "a pure JS react-native smart picker, highly customizable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lukebars/rn-scrollable-picker"
   },
   "keywords": [
     "picker",
@@ -17,10 +13,6 @@
   ],
   "author": "veizz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lukebars/rn-scrollable-picker/issues"
-  },
-  "homepage": "https://github.com/lukebars/rn-scrollable-picker#readme",
   "dependencies": {
     "all-contributors-cli": "^6.9.0"
   }
